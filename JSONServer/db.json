@@ -23,6 +23,12 @@
       "details": "The heart belongs to kevin",
       "category": "reminders",
       "id": 4
+    },
+    {
+      "title": "Get Paid",
+      "details": "Demand Ntwali and his boys",
+      "category": "money",
+      "id": 5
     }
   ]
 }
