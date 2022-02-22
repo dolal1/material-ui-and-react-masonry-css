@@ -36,7 +36,7 @@ function NoteCard({ note, handleDelete }) {
             </Avatar>
           }
           action={
-            <IconButton onClick={(id) => handleDelete(id)}>
+            <IconButton onClick={() => handleDelete(note.id)}>
               <DeleteOutlined />
             </IconButton>
           }
